@@ -1,0 +1,40 @@
+/* reset */
+body {
+  margin: unset;
+}
+
+/* components */
+.container {
+  box-shadow: inset 0 0 10px orange;
+  max-width: 500px;
+  height: 650px;
+  margin: 100px auto;
+  padding: 10px;
+}
+
+.inputNumber {
+  box-shadow: inset 0 0 10px orange;
+  height: 50px;
+  text-align: right;
+  padding: 10px;
+}
+
+.resultNumer {
+  box-shadow: inset 0 0 10px orange;
+  height: 50px;
+  margin: 10px auto;
+  text-align: right;
+  padding: 10px;
+}
+
+.btn_wrapper {
+  box-shadow: inset 0 0 10px orange;
+  height: 450px;
+  padding: 10px;
+}
+
+.btn {
+  width: 50px;
+  height: 40px;
+  margin: 5px;
+}
